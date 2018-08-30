@@ -1,3 +1,7 @@
+Notes:
+I have run into some rounding issues, but each value I got should be within +/-0.01 of the expected value.
+-Wanlu
+
 # Table of Contents
 1. [Introduction](README.md#introduction)
 1. [Challenge summary](README.md#challenge-summary)
