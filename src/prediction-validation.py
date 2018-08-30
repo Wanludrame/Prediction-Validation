@@ -43,7 +43,7 @@ def create_comparison(k):
     time2 = pd.Series(time2)
     average_error = pd.Series(average_error)
     table = pd.DataFrame({'time1':time1, 'time2':time2, 'average_error':average_error})
-    return table[["time1", "time2", "average_error"]]
+    return table[['time1', 'time2', 'average_error']]
 
 comparison = create_comparison(time_window)
 
