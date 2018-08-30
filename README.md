@@ -1,5 +1,5 @@
 Notes:
-I have run into some rounding issues, but each value I got should be within +/-0.01 of the expected value.
+I have run into some rounding issues, but each value I got should fall within +/-0.01 of the expected value.
 -Wanlu
 
 # Table of Contents
